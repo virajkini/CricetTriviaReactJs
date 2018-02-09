@@ -12,7 +12,7 @@ This app is creat
 
 
 
-Other libraries used in the application : 
+## Other libraries used in the application : 
 material-ui
 react-custom-scrollbars
 recharts
