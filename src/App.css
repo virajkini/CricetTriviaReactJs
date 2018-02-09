@@ -1,0 +1,23 @@
+.flexContainer {
+  display: flex;
+}
+
+.flex1 {
+  flex: 1;
+}
+
+.MainContainer {
+  margin: 20px 50px 0 50px;
+}
+
+@media only screen and (max-width: 900px) {
+  .MainContainer {
+    margin: 20px 20px 0 20px;
+  }
+  .flexContainer {
+    display: block;
+  }
+  .flex1 {
+
+  }
+}
